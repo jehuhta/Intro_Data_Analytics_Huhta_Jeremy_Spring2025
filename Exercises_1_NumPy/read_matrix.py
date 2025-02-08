@@ -4,5 +4,4 @@ import numpy as np
 data = np.loadtxt("matrix.txt", delimiter = ',')
 
 # changes data to numpy.
-data = np.array(data)
 print(data)
